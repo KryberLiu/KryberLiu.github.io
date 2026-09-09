@@ -203,6 +203,10 @@ h1 {
   font-weight: 700;
 }
 
+.panel-email {
+  display: block;
+}
+
 .panel-note {
   margin: 28px 0 0;
   color: #3c5752;
@@ -301,6 +305,10 @@ h2 {
 
 .email-link:hover {
   color: #f1a092;
+}
+
+.secondary-email {
+  font-size: clamp(1.05rem, 2.4vw, 1.55rem);
 }
 
 .secondary-links {

@@ -1,13 +1,10 @@
 # KryberLiu.github.io
 
-This is a small static academic homepage for OpenReview identity verification.
+This is a small static academic homepage for Liu Xiangyuan (LIUXIANGYUAN) at Sichuan University (SCU). It can be used as the public link required by OpenReview.
 
 ## Before publishing
 
-Replace the two identity placeholders beginning with `YOUR_` in `index.html`:
-
-- `YOUR_FULL_NAME`: the exact name used in OpenReview
-- `YOUR_EMAIL@example.com`: the OpenReview registration email (it will be public)
+The page currently displays the exact OpenReview name `刘湘媛 (LIUXIANGYUAN)` and the two public email addresses supplied for this profile. Email addresses are intentionally visible because OpenReview asks the linked page to display a name and email.
 
 Do not add links for Google Scholar, DBLP, ORCID, or other services unless those profiles really exist.
 
