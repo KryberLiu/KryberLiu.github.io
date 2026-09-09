@@ -1,6 +1,6 @@
 # KryberLiu.github.io
 
-This is a small static academic homepage for Liu Xiangyuan (LIUXIANGYUAN) at Sichuan University (SCU). It can be used as the public link required by OpenReview.
+This is a small static academic homepage for Liu Xiangyuan (LIUXIANGYUAN), a master's student at Sichuan University (SCU). It can be used as the public link required by OpenReview.
 
 ## Before publishing
 
